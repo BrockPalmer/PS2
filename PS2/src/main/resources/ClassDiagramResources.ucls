@@ -3,7 +3,7 @@
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
   <class id="1" language="java" name="Base.MyInteger" project="PS2" file="/PS2/src/main/java/Base/MyInteger.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="396" width="407" x="317" y="122"/>    
+    <position height="418" width="386" x="352" y="112"/>    
     <display autosize="false" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
